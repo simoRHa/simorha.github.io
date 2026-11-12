@@ -1,3 +1,5 @@
-# Mohamed Rahhali | Media Buyer Junior
+# Mohamed Rahhali - Media Buyer Portfolio
 
-Portfolio professionnel de Mohamed Rahhali.
+Site statique prêt pour GitHub Pages.
+
+Fichier principal : `index.html`
